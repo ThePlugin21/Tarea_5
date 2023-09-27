@@ -20,5 +20,3 @@ ylabel("Volts");
     L = 6e-03;
     C = 1e-7;
     Vin = 3.8;
-
-open('RLC_MODELO.slx');
